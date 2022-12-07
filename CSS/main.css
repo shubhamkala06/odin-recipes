@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    font-size: 60px;
+    color: white;
+    background-color: grey;
+    margin: 0px 0px 60px 0px;
+    padding: 20px 10px;
+}
+
+
+.dish{
+    margin: 1%;
+    padding:0.2%;
+    font-size: 20px;
+}
